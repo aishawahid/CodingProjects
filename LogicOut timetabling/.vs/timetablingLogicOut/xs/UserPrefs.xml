@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8CC8AA6D-B768-4EDB-B242-86B2FD2B278D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="timetablingLogicOut/frmAllocation.cs">
+    <Files>
+      <File FileName="timetablingLogicOut/frmUserView.cs" Line="1" Column="1" />
+      <File FileName="timetablingLogicOut/Timetable.cs" Line="340" Column="10" />
+      <File FileName="timetablingLogicOut/frmAllocation.cs" Line="52" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="timetablingLogicOut" expanded="True">
+            <Node name="timetablingLogicOut" expanded="True">
+              <Node name="frmAllocation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.timetablingLogicOut PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

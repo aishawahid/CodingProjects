@@ -1,0 +1,139 @@
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe.config
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.pdb
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csprojAssemblyReference.cache
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourse.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoom.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSchedule.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudent.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.Properties.Resources.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.GenerateResource.cache
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.CoreCompileInputs.cache
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.exe
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.pdb
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmMain.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmLogin.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUser.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoomView.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmScheduleViewcs.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourseView.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSession.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionView.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudentView.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosen.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosenView.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUserView.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmAllocation.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetable.resources
+C:/Aisha Wahid/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetableAdmin.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe.config
+D:/final project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe
+D:/final project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.pdb
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csprojResolveAssemblyReference.cache
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourse.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourseView.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmLogin.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmMain.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoom.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSchedule.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmScheduleViewcs.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSession.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosen.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosenView.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionView.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudent.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudentView.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmAllocation.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetable.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetableAdmin.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUser.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoomView.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUserView.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.Properties.Resources.resources
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.GenerateResource.Cache
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.CoreCompileInputs.cache
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.exe
+D:/final project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.pdb
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe.config
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.pdb
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csprojResolveAssemblyReference.cache
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourse.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourseView.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmLogin.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmMain.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoom.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSchedule.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmScheduleViewcs.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSession.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosen.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosenView.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionView.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudent.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudentView.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmAllocation.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetable.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetableAdmin.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUser.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoomView.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUserView.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.Properties.Resources.resources
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.GenerateResource.Cache
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.CoreCompileInputs.cache
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.exe
+C:/Aisha Wahid/Funtech A-Level/A level/NEA/project/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.pdb
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe.config
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.pdb
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csprojResolveAssemblyReference.cache
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourse.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourseView.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmLogin.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmMain.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoom.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSchedule.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmScheduleViewcs.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSession.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosen.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosenView.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionView.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudent.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudentView.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmAllocation.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetable.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetableAdmin.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUser.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoomView.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUserView.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.Properties.Resources.resources
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.GenerateResource.Cache
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.CoreCompileInputs.cache
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.exe
+C:/Users/Aisha Wahid/OneDrive - Wycombe High School/Subjects/Computer Science/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.pdb
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe.config
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.exe
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/bin/Debug/timetablingLogicOut.pdb
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csprojAssemblyReference.cache
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourse.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmCourseView.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmLogin.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmMain.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoom.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSchedule.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmScheduleViewcs.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSession.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosen.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionChosenView.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmSessionView.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudent.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmStudentView.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmAllocation.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetable.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmTimetableAdmin.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUser.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmRoomView.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.frmUserView.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.Properties.Resources.resources
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.csproj.GenerateResource.cache
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.exe
+/Users/aishawahid/Dropbox/Aisha Rani Wahid (1)/00. NEA/DONOTEDITPROJECT/timetablingLogicOut/timetablingLogicOut/obj/Debug/timetablingLogicOut.pdb
