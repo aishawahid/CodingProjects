@@ -1,1 +1,1 @@
-Browse between branches to see some of my coding projects for different languages including C#, Java and Python.
+Browse between branches to see some of my coding projects including C#, Java, Python, Web Development and Machine Learning projects.
