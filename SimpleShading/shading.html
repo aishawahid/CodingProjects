@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		body {
+			margin:  0;
+			overflow: hidden;
+		}
+	</style>
+</head>
+<body>
+        <script type="module">
+            import * as THREE from "https://web.cs.manchester.ac.uk/three/three.js-master/build/three.module.js";
+            var camera, scene, renderer, geometry, mesh, material
+
+            initialise();
+            animate();
+
+            function initialise(){
+              scene = new THREE.Scene();
+							//Question 1
+							//1st argument is the field of view (angle) which determines how much of the scene will be visible to the camera 
+              //A smaller value will result in a zoomed-in view, while a larger value will result in a wider view.
+							
+              //2nd argument is the aspect ratio which determines how wide the rendered scene is relevant to it's height.
+              //This is used to ensure that the scene is rendered properly and does not appear stretched or compressed so we usually use the width and height of the window
+							
+              //3rd argument is the near of view which provides a minimum for the viewing area. It is the distance from the camera to the nearest point in the scene that will be rendered. Objects closer than this distance will not be visible.
+							
+              //4th argument is the far of view which provides a maximum for the viewing area. This is the distance from the camera to the farthest point in the scene that will be rendered. Objects farther than this distance will not be visible
+
+							//Question 2
+							//increasing the 1st argument (angle) will increase the field of view so the cuboid will appear to be further away, if the value is decreased it decreases the field of view (it appears to have 'zoomed in'). A smaller value will result in a zoomed-in view, while a larger value will result in a wider view.
+
+							//if we decrease the 2nd argument (aspect ratio) we shrink the cuboid, if we increase the argument the cuboid could become squashed. Changing the 2nd argument can affect how the scene is displayed on different screen sizes and aspect ratios.
+							
+              //increasing the 3rd argument (near value)  will result in objects closer to the camera being visible in the scene, while decreasing it will result in objects closer to the camera being hidden. In this case the cuboid is already close to the camera so doesn't matter
+
+							//increasing the 4th argument will result in objects farther from the camera being visible in the scene, while decreasing it will result in objects farther from the camera being hidden.
+
+              //It's important to find the right balance between these arguments in order to create a realistic and immersive 3D experience using THREE.js. 
+
+							camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight , 0.1, 1000);
+
+							//Question 3 and 4
+							//The camera.position.z value in THREE.js determines the distance between the camera and the center of the scene in the z-direction. A larger value will result in the camera being farther away from the scene, while a smaller value will result in the camera being closer to the scene. This value is important in determining the perspective of the scene and how it will be rendered on the screen.
+
+              camera.position.z = 5;
+              renderer = new THREE.WebGLRenderer();
+              renderer.setClearColor(0x000000, 1.0);
+
+							//Question 5
+              //The renderer.setSize() function is used to set the size of the renderer's canvas element, which determines the size of the rendered scene in the browser window.
+              //Changing the arguments of renderer.setSize() will change the size of the canvas element, and therefore the size of the rendered scene. 
+              //The 1st argument changes the width of the canvas element and therefore the width of the rendered scene.
+              //The 2nd argument changes the height of the canvas element and therefore the height of the rendered scene.
+
+					
+              renderer.setSize(window.innerWidth, window.innerHeight);
+              document.body.appendChild(renderer.domElement);
+              shaderCube();
+            }
+
+            function shaderCube(){
+              //Question 6
+              //increasing or decreasing the 1st argument, the width, will horizontally increase or decrease the size of the ouput screen
+              //cuboid will be wider if increased or narrower if decreased
+              //increasing or decreasing the 2nd argument, the height, will vertically increase or decrease the size of the ouput screen
+              //cuboid will be taller if increased or shorter if decreased
+              //the 3rd argument is the depth, adn increasing this value will result in a deeper cuboid being rendered and decreasing will result in a shallower box being rendered.
+              geometry = new THREE.BoxGeometry(2, 1, 1);
+              material = new THREE.ShaderMaterial({
+                  fragmentShader: fragmentShader(),
+                  vertexShader: vertexShader(),
+              })
+              mesh = new THREE.Mesh(geometry, material);
+              scene.add(mesh);
+            }
+
+            function fragmentShader(){
+							// Question 8
+              //to change the colour of the cuboid we change the parameters of the vec4 function
+              //gl_FragColor sets the colour of the cuboid
+              //so in order to change the colour we must change what gl_FragColor is equal to
+              //we do this by changing the parameters of the vec4 function
+              // for example is we wanted a white cuboid we would set gl_FragColor = vec4(1.0, 1.0, 1.0, 1.0);
+              // the first three parameters relate to the rgb representation of the colours
+              return `
+                varying vec3 vposInterpolated;
+
+                void main() {
+                  gl_FragColor = vec4(vposInterpolated, 1.0);
+                }
+                `
+            }
+
+            function vertexShader(){
+              return `
+                vec4 p;
+                varying vec3 vposInterpolated;
+
+                void main(){
+                  p = projectionMatrix * modelViewMatrix * vec4(position, 1.0);
+                  gl_Position = p;
+                  vposInterpolated = p.xyz;
+                }
+                `
+            }
+
+            function animate(){
+                renderer.render(scene, camera);
+                requestAnimationFrame(animate);
+
+								//Question 7
+                //mesh.rotation.x controls the rotation of a mesh object around the x-axis.
+                //mesh.rotation.y controls the rotation of a mesh object around the y-axis.
+								//to increase the speed of the cuboid's motion you would increase the values of its x and y rotation
+                //it is an incremented value so as it increases it means the mesh will rotate by a bigger angle each time so increasing the values of the mesh rotation will speed up its motion
+                mesh.rotation.x += 0.011;
+                mesh.rotation.y += 0.013;
+            }
+
+    </script>
+  </body>
+</html>
+
+<!--
+    1. What is the purpose of the four arguments of the PerspectiveCamera function?
+    2. What happens when you increase or decrease the numerical values?
+    3. What is the purpose of the value of camera.position.z?
+    4. What happens when you increase or decrease the value?
+    5. What happens when the values of the arguments to renderer.setSize() are
+    changed?
+    6. What is the effect of changing the three arguments of BoxGeometry called in
+    shaderCube()?
+    7. How will you speed up the cuboid’s motion?
+    8. How would you change the cuboid’s colour?
+-->
