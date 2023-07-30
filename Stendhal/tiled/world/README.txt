@@ -1,1 +1,0 @@
-These files are created by "ant rendermaps". Please do not edit them manually.
